@@ -1,1 +1,2 @@
-Se supone que me debe ir bien... 
+readme
+
